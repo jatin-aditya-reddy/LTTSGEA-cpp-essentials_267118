@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/shivam/Desktop/Set 3/Banking/Account.cpp
+iostream
+-
+Account.h
+/home/shivam/Desktop/Set 3/Banking/Account.h
+CreditAccount.h
+/home/shivam/Desktop/Set 3/Banking/CreditAccount.h
+SavingsAccount.h
+/home/shivam/Desktop/Set 3/Banking/SavingsAccount.h
+
+/home/shivam/Desktop/Set 3/Banking/Account.h
+string
+-
+
+/home/shivam/Desktop/Set 3/Banking/Account_test.cpp
+gtest/gtest.h
+-
+Account.cpp
+/home/shivam/Desktop/Set 3/Banking/Account.cpp
+CreditAccount.h
+/home/shivam/Desktop/Set 3/Banking/CreditAccount.h
+SavingsAccount.h
+/home/shivam/Desktop/Set 3/Banking/SavingsAccount.h
+
+/home/shivam/Desktop/Set 3/Banking/CreditAccount.h
+string
+-
+Account.h
+/home/shivam/Desktop/Set 3/Banking/Account.h
+
+/home/shivam/Desktop/Set 3/Banking/SavingsAccount.h
+string
+-
+Account.h
+/home/shivam/Desktop/Set 3/Banking/Account.h
+
