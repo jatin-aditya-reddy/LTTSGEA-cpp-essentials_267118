@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1600678614 source:c:\users\training\downloads\set2\myarray\myarray.cc
+	<iostream>
+	"Myarray.h"
+
+1600678593 c:\users\training\downloads\set2\myarray\myarray.h
+
