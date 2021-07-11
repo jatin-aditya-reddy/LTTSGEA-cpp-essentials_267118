@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/shivam/Desktop/Set 2/Complex_Number/Complex.cpp
+iostream
+-
+Complex.h
+/home/shivam/Desktop/Set 2/Complex_Number/Complex.h
+
+/home/shivam/Desktop/Set 2/Complex_Number/Complex.h
+
+/home/shivam/Desktop/Set 2/Complex_Number/Complex_test.cpp
+Complex.cpp
+/home/shivam/Desktop/Set 2/Complex_Number/Complex.cpp
+gtest/gtest.h
+-
+
