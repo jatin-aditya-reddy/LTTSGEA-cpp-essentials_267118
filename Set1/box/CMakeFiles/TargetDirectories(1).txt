@@ -1,0 +1,3 @@
+/home/shivam/Desktop/Set1/box/CMakeFiles/rebuild_cache.dir
+/home/shivam/Desktop/Set1/box/CMakeFiles/edit_cache.dir
+/home/shivam/Desktop/Set1/box/CMakeFiles/executeTests.dir
